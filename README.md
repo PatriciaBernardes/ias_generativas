@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/capa.jpeg"
+    width="300"
+/>
+</p>
+
 # Vídeo: Explorando as ferramentas IAs Generativas
 
 ## 📒 Descrição
